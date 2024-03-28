@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('api.mestoar.nomoredomainswork.ru');
+  const api = new Api('https://api.mestoar.nomoredomainswork.ru');
 
   export default api;
