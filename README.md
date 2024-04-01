@@ -2,6 +2,6 @@
 
   Проект по автоматизации деплоя frontend'a и backend'a при помощи Pm2
 
-* **backend**: https://api.mestoar.nomoredomainswork.ru
-* **frontend**: https://mestoar.nomoredomainswork.ru
+* **backend**: [api.mestoar.nomoredomainswork.ru](https://api.mestoar.nomoredomainswork.ru)
+* **frontend**: [mestoar.nomoredomainswork.ru](https://mestoar.nomoredomainswork.ru)
 * **ip:** 158.160.157.85
